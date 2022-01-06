@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "779090034465",
+    "project_id": "washify-95f24",
+    "storage_bucket": "washify-95f24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779090034465:android:02cac96767651d7ad14860",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779090034465-6otnnbut9p3lfngvqmu2ebei1eifdnei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "69f7c8d69d71b700ec810bc04475786988ac1b8e"
+          }
+        },
+        {
+          "client_id": "779090034465-cslmioukiejae60c8gg1vrsh53d43gve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoypH68FvoWlbUCws5-zJvhE9ZfEtiBfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779090034465-cslmioukiejae60c8gg1vrsh53d43gve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779090034465:android:a4bc6c0a26425f5bd14860",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779090034465-cslmioukiejae60c8gg1vrsh53d43gve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoypH68FvoWlbUCws5-zJvhE9ZfEtiBfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779090034465-cslmioukiejae60c8gg1vrsh53d43gve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779090034465:android:f521d40e51a1b55bd14860",
+        "android_client_info": {
+          "package_name": "com.example.project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779090034465-cslmioukiejae60c8gg1vrsh53d43gve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoypH68FvoWlbUCws5-zJvhE9ZfEtiBfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779090034465-cslmioukiejae60c8gg1vrsh53d43gve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
